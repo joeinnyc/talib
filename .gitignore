@@ -13,3 +13,4 @@ includes
 .history
 ace.log
 .DS_Store
+.stack-work/
